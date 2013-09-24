@@ -1,4 +1,4 @@
-This project was written in C. It deals with Cats-and-Mice Game in a 2-Dimention Game Maze and implementation of artificial intelligence(AI). The code takes the role of both the mouse trying to find some lunch and get away before being eaten by kitties that are always hungry and looking for mice. I used a variety of graph based algorithms planning the movement of each cat or mouse in the maze.
+This project was written in C. It deals with Cats-and-Mice Game in a 2-Dimention Game Maze and implementation of artificial intelligence(AI). The code takes the role of both the mouse trying to find some lunch and get away before being eaten by kitties that are always hungry and looking for mice. A variety of graph based algorithms is used to plan the movement of each cat or mouse in the maze.
 
 The followings are the implementations of GameAI:
 
